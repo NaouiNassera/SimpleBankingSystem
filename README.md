@@ -1,16 +1,21 @@
-#simple console-based banking system :
+# Console-Based Banking System
 
-Create an account
-Deposit money
-Withdraw money
-Check balance
-Exit the application
+A simple Java console application that simulates basic banking operations.  
+This project demonstrates Java fundamentals.
+
+## Features
+
+- Create an account
+- Deposit money
+- Withdraw money
+- Check balance
+- Exit the application
 
 
-#How to run ?
+## How to run ?
 
-compile using : 
+### compile program using : 
 javac Main.java
 
-execute using :
+### execute program using :
 java Main
